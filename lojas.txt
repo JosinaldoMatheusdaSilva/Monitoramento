@@ -1,0 +1,146 @@
+K001;Shopping Analia Franco;10.32.40.1;10.32.40.10
+K002;Shopping Diamond Mall;10.32.12.1;10.32.12.10
+K003;Shopping Boulevard BH;10.32.14.1;10.32.14.10
+K005;Shopping Market Place;10.32.46.1;10.32.46.10
+K006;Aeroporto Brasilia;10.32.10.1;10.32.10.10
+K007;Tiete Plaza Shopping;10.32.39.1;10.32.39.10
+K044;Praia de Belas Shopping;10.32.45.1;10.32.45.10
+K045;Shopping Litoral Plaza;10.32.44.1;10.32.44.10
+K047;Osasco Plaza Shopping;10.32.18.1;10.32.18.10
+K048;Shopping Metro Santa Cruz;10.32.19.1;10.32.19.10
+K049;Shopping Eldorado;10.32.20.1;10.32.20.10
+K050;Shopping Metro Tatuape;10.32.21.1;10.32.21.10
+K051;Shopping Tambore;10.32.22.1;10.32.22.10
+K052;Park Shopping Sao Caetano;10.32.23.1;10.32.23.10
+K053;Shopping Uniao Osasco;10.32.24.1;10.32.24.10
+K054;Mooca Plaza Shopping;10.32.25.1;10.32.25.10
+K055;Shopping Center 3;10.32.26.1;10.32.26.10
+K056;Shopping Mais;10.32.27.1;10.32.27.10
+K057;Parque Dom Pedro Shopping;10.32.41.1;10.32.41.10
+K058;Grand Plaza Shopping;10.32.28.1;10.32.28.10
+K059;Shopping Center Norte;10.32.29.1;10.32.29.10
+K060;Shopping Interlagos;10.32.30.1;10.32.30.10
+K061;Shopping West Plaza;10.32.31.1;10.32.31.10
+K062;Maua Plaza Shopping;10.32.32.1;10.32.32.10
+K063;Jundiai Shopping;10.32.33.1;10.32.33.10
+K064;Shopping Light;10.32.34.1;10.32.34.10
+K065;Shopping Metro Boulevard Tatuape;10.32.35.1;10.32.35.10
+K066;Shopping Penha;10.32.36.1;10.32.36.10
+K067;Parque Shopping Maia;10.32.1.1;10.32.1.10
+K068;Shopping Max Jundiai;10.32.38.1;10.32.38.10
+K069;Top Center;10.32.100.1;10.32.100.10
+K072;Shopping Canoas;10.32.7.1;10.32.7.10
+K073;Shopping Wallig;10.32.2.1;10.32.2.10
+K074;Shopping Bourbon;10.32.9.1;10.32.9.10
+K075;Shopping Contagem;10.32.16.1;10.32.16.10
+K076;Shopping Butanta;10.32.3.1;10.32.3.10
+K077;Shopping Campinas;10.32.37.1;10.32.37.10
+K078;Morumbi Town Shopping;10.32.5.1;10.32.5.10
+K079;Shopping Cidade BH;10.32.13.1;10.32.13.10
+K080;Shopping Super Osasco;10.32.6.1;10.32.6.10
+K081;Shopping Indaiatuba;10.32.11.1;10.32.11.10
+K082;Shopping Vila Olimpia;10.32.43.1;10.32.43.10
+K083;Shopping Taboao;10.32.47.1;10.32.47.10
+K084;Morumbi Shopping;10.32.42.1;10.32.42.10
+K086;Central Plaza;10.32.50.1;10.32.50.10
+K087;Park Shopping Canoas;10.32.57.1;10.32.57.10
+K088;Carioca Shopping;10.32.48.1;10.32.48.10
+K089;MidWay Mall;10.32.59.1;10.32.59.10
+K090;Shopping Iguatemi Porto Alegre;10.32.54.1;10.32.54.10
+K091;Shopping Boulevard Rio;10.32.49.1;10.32.49.10
+K092;Via Parque Shopping;10.32.51.1;10.32.51.10
+K093;Shopping Patteo Olinda;10.32.106.1;10.32.106.10
+K094;Barra Shopping Sul;10.32.58.1;10.32.58.10
+K095;West Shopping;10.32.64.1;10.32.64.10
+K096;Shopping Partagem Betim;10.32.52.1;10.32.52.10
+K097;Shopping Guararapes;10.32.53.1;10.32.53.10
+K098;Shopping Parangaba;10.32.55.1;10.32.55.10
+K099;Maceio Shopping;10.32.56.1;10.32.56.5
+K100;Shopping Buriti;10.32.60.1;10.32.60.10
+K101;Shopping Tacaruna;10.32.103.1;10.32.103.10
+K103;Taguatinga Shopping;10.32.67.1;10.32.67.10
+K104;Shopping Del Rey;10.32.66.1;10.32.66.10
+K106;Shopping Cidade Sao Paulo;10.32.65.1;10.32.65.10
+K107;Shopping Vitoria;10.32.63.1;10.32.63.10
+K108;Shopping Vila Velha;10.32.62.1;10.32.62.10
+K109;Cantareira Norte Shopping;10.32.76.1;10.32.76.10
+K110;Shopping Via Barreiro;10.32.78.1;10.32.78.10
+K111;Shopping Metropolitano Barra;10.32.75.1;10.32.75.10
+K112;BH Shopping;10.32.79.1;10.32.79.10
+K113;Shopping Parque Botucatu;10.32.68.1;10.32.68.10
+K114;Shopping Sul;10.32.137.1;10.32.137.10
+K115;Center Shopping Uberlandia;10.32.69.1;10.32.69.10
+K116;Shopping Bonsucesso;10.32.82.1;10.32.82.10
+K117;Plaza Shopping Carapicuiba;10.32.80.1;10.32.80.10
+K118;Itaqua Garden Shopping;10.32.87.1;10.32.87.10
+K119;Plaza Shopping Itu;10.32.70.1;10.32.70.10
+K120;Frei Caneca;10.32.81.1;10.32.81.10
+K121;Santana Park Shopping;10.32.85.1;10.32.85.10
+K122;Praiamar Shopping;10.32.72.1;10.32.72.10
+K123;Shopping Parque das Bandeiras;10.32.83.1;10.32.83.10
+K124;Shopping Jaragua;10.32.88.1;10.32.88.10
+K125;Granja Viana;10.32.84.1;10.32.84.10
+K126;Shopping Villagio;10.32.86.1;10.32.86.10
+K127;Shopping Downtown;10.32.91.1;10.32.91.10
+K128;Shopping Nova Iguacu;10.32.77.1;10.32.77.10
+K129;Parque Shopping Sulacap;10.32.89.1;10.32.89.10
+K130;Tivoli Shopping;10.32.73.1;10.32.73.10
+K131;Shopping Bourbon Novo Hamburgo;10.32.74.1;10.32.74.10
+K132;Park Jacarepagua;10.32.71.1;10.32.71.10
+K133;Glicerio Campinas;10.32.96.1;10.32.96.10
+K134;Shopping Iguatemi Campinas;10.32.90.1;10.32.90.10
+K135;Shopping Hortolandia;10.32.94.1;10.32.94.10
+K137;Shopping Bourbon Sao Leopoldo;10.32.93.1;10.32.93.10
+K138;Shopping Bay Market;10.32.92.1;10.32.92.10
+K139;Shopping Bella Citta;10.32.95.1;10.32.95.10
+K140;Shopping Moxuara;10.32.97.1;10.32.97.10
+K141;Neumarkt Shopping;10.32.99.1;10.32.99.10
+K142;KFC Uberlandia Shopping;10.32.104.1;10.32.104.10
+K143;Floripa Shopping;10.32.112.1;10.32.112.10
+K144;Shopping Patio Petropolis;10.32.105.1;10.32.105.10
+K145;Itapecerica Shopping;10.32.102.1;10.32.102.10
+K146;Continente Park Shopping;10.32.98.1;10.32.98.10
+K147;Shopping Buriti Mogi Guacu;10.32.108.1;10.32.108.10
+K148;Shopping Praia da Costa;10.32.107.1;10.32.107.10
+K149;Shopping Boa Vista;10.32.110.1;10.32.110.10
+K150;Golden Square Shopping;10.32.109.1;10.32.109.10
+K151;North Shopping Fortaleza;10.32.101.1;10.32.101.10
+K154;Salvador Norte Shopping;10.32.114.1;10.32.114.10
+K155;Shopping Jardins;10.32.116.1;10.32.116.10
+K156;Shopping Park Sul;10.32.113.1;10.32.113.10
+K157;Shopping Riomar Aracaju;10.32.115.1;10.32.115.10
+K158;Shopping Uberaba;10.32.122.1;10.32.122.10
+K160;Itaborai Plaza Shopping;10.32.118.1;10.32.118.10
+K161;Blumenau Norte Shopping;10.32.119.1;10.32.119.10
+K162;Shopping SerraSul;10.32.117.1;10.32.117.10
+K163;Parque Shopping Bahia;10.32.121.1;10.32.121.10
+K164;Faria Lima;10.32.123.1;10.32.123.10
+K165;Nacoes Shopping;10.32.120.1;10.32.120.10
+K166;Shopping Piracicaba;10.32.15.1;10.32.15.10
+K167;Shopping Boulevard Vila Velha;10.32.124.1;10.32.124.10
+K168;Shopping Paralela;10.32.126.1;10.32.126.10
+K169;Vila Romana;10.32.127.1;10.32.127.10
+K170;Shopping da Ilha;10.32.129.1;10.32.129.10
+K171;Shopping Sao Luis;10.32.128.1;10.32.128.10
+K172;Shopping Center Lapa;10.32.125.1;10.32.125.10
+K173;Shopping Jardim Norte;10.32.132.1;10.32.132.10
+K174;Shopping Park Lagos;10.32.131.1;10.32.131.10
+K175;Gravatai Shopping;10.32.130.1;10.32.130.10
+K176;Santa Ursula;10.32.133.1;10.32.133.10
+K177;Shopping Trimais;10.32.134.1;10.32.134.10
+K178;Shopping Valinhos;10.32.135.1;10.32.135.10
+K180;Caruaru;10.32.139.1;10.32.139.10
+K181;Sider Shopping;10.32.141.1;10.32.141.10
+K182;Paulista North Way Shopping;10.32.144.1;10.32.144.10
+K183;Vale do Aco;10.32.147.1;10.32.147.10
+K184;Shopping Cidade Sorocaba;10.32.148.1;10.32.148.10
+K185;Shopping Patio Limeira;10.32.151.1;10.32.151.10
+K186;Shopping Atrium;10.32.149.1;10.32.149.10
+K187;Shopping Patio Maceio;10.32.142.1;10.32.142.10
+K188;ParkShopping Brasilia;10.32.143.1;10.32.143.10
+K189;Shopping Mangabeira;10.32.150.1;10.32.150.10
+K190;Shopping Partage Campos;10.32.138.1;10.32.138.10
+K191;Shopping Rio Anil;10.32.146.1;10.32.146.10
+K192;Shopping Estacao Cuiaba;10.32.145.1;10.32.145.10
+K193;Shopping Mestre Alvaro;10.32.140.1;10.32.140.10
+K194;Catarina Fashion Outlet;10.32.152.1;10.32.152.10
