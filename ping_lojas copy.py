@@ -8,7 +8,7 @@ import os
 ARQUIVO_TXT = "lojas.txt"
 RELATORIO_HTML = "index.html"
 STATE_FILE = "offline_state.json"
-INTERVALO = 30  # segundos
+INTERVALO = 30 # segundos
 
 
 def ping(ip):
@@ -32,6 +32,7 @@ def ping(ip):
         return False, None
     except:
         return False, None
+
 
 
 # 🔹 Carrega estado offline persistente
@@ -145,22 +146,12 @@ try:
 <title>Network Monitoring</title>
 
 <style>
-/* ✅ Fonte KFC (offline) */
-@font-face {{
-    font-family: "KFCKrunch";
-    src: url("./fonts/KFCKrunch-Regular.woff2") format("woff2"),
-         url("./fonts/KFCKrunch-Regular.woff") format("woff");
-    font-weight: 400;
-    font-style: normal;
-}}
-
 body {{
     margin: 0;
-    font-family: "KFCKrunch", Segoe UI, Arial, sans-serif;
+    font-family: Segoe UI, Arial, sans-serif;
     background: radial-gradient(circle at top, #020617, #0f172a);
     color: #e5e7eb;
 }}
-
 
 .controls {{
     display: flex;
@@ -249,28 +240,10 @@ button.active {{
     opacity: .85;
 }}
 
-.title {{
-    font-weight: 400;
-    font-size: 18px;
-    letter-spacing: 0.4px;
-}}
-
-
-
-.ip {{
-    font-size: 14px;
-    opacity: .85;
-}}
-
-.status {{
-    margin-top: 15px;
-    font-weight: bold;
-}}
-
-.detail {{
-    font-size: 13px;
-    opacity: .7;
-}}
+.title {{ font-weight: 700; font-size: 16px; }}
+.ip {{ font-size: 14px; opacity: .85; }}
+.status {{ margin-top: 15px; font-weight: bold; }}
+.detail {{ font-size: 13px; opacity: .7; }}
 </style>
 
 <script>
